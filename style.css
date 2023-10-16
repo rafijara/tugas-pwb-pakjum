@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+
+}
+
+p {
+    color: black;
+    size: 50px;
+    text-align: justify
+}
