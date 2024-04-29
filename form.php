@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <form action="welcome.html" method="get">
+    <form action="welcome.php" method="post">
         <h1>Sign Up Form</h1>
 
         <label for="first-name">First Name:</label>

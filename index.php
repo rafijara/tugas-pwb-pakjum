@@ -32,7 +32,7 @@
     <h3>Cara Bergabung ke Media Online</h3>
     <ol>
         <li>Mengunjungi website ini</li>
-        <li>Mendaftar di <a href="form.html">Form sign up</a></li> 
+        <li>Mendaftar di <a href="form.php">Form sign up</a></li> 
         <li>Selesai</li>
 </body>
 </html>
